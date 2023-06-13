@@ -1,3 +1,3 @@
 # C-labs
 
-![cp](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/images/C_DevelopmentProcesses.png)
+![cp](https://www.newtondesk.com/wp-content/uploads/2022/04/c-programming-study-notes.jpg)
